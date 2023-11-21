@@ -7,6 +7,6 @@ Currently, I am committed to improving my skills as a developer and working on s
 Here I am, open to making new connections and discovering ways to make the digital world a better place.⚡⚡
 
 - 📫 How to reach me:
-- [!Instagram](https://img.shields.io/badge/Instagram-E4405f?style=for-the-badge&logo=instagram&logoCollor=white)](https://www.instagram.com/jessicamaximo_)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405f?style=for-the-badge&logo=instagram&logoCollor=white)](https://www.instagram.com/jessicamaximo_)
 
 -->
