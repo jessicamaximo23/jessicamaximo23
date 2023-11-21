@@ -8,14 +8,7 @@ Here I am, open to making new connections and discovering ways to make the digit
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamaximo23&hide_progress=true))
-
-
-
-
+ ![Jessica Maximo GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamaximo23&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamaximo23&hide_progress=trueicons=true&theme=dracula)
 
 ### 📫 How to reach me ⤵️
   
