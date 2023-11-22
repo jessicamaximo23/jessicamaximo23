@@ -12,6 +12,5 @@ Here I am, open to making new connections and discovering ways to make the digit
 
 ### 📫 How to reach me ⤵️
   
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-m%C3%A1ximo-b65467115/) [![Instagram](https://img.shields.io/badge/Instagram-E4405f?style=for-the-badge&logo=instagram&logoCollor=white)](https://www.instagram.com/jessicamaximo_) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jessicamaximo23@gmail.com)
-
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-m%C3%A1ximo-b65467115/) [![Instagram](https://img.shields.io/badge/Instagram-E4405f?style=for-the-badge&logo=instagram&logoCollor=white)](https://www.instagram.com/jessicamaximo_) 
 
