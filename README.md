@@ -1,6 +1,6 @@
 ### Hi there, My name is Jessica Maximo 👋
 
-⚡I am from Brasília, but currently, I live in Montreal. I am 30 years old and a student in the Mobile Application Program at Cégep de la Gaspésie (Montreal Campus). Currently, I am committed to improving my skills as a developer and working on some personal projects using the Kotlin language.
+⚡I am from Brasília, but currently, I live in Montreal. I am a student in the Mobile Application Program at Cégep de la Gaspésie (Montreal Campus). Currently, I am committed to improving my skills as a developer and working on some personal projects
 
 ⚡I love studying and am always seeking challenges and opportunities to develop myself. Because of this, I stopped my career as a physiotherapist to venture into the field of technology. Certainly, my years of previous experience have helped me to have excellent communication and problem-solving skills. 
 
