@@ -14,5 +14,5 @@
 
 ### 📫 How to reach me ⤵️
   
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-m%C3%A1ximo-b65467115/) [![Instagram](https://img.shields.io/badge/Instagram-E4405f?style=for-the-badge&logo=instagram&logoCollor=white)](https://www.instagram.com/jessicamaximo_) 
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-m%C3%A1ximo-b65467115/) 
 
