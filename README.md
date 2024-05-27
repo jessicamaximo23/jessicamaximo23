@@ -9,8 +9,11 @@
 ### Technologies ⤵️
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
  ![Jessica Maximo GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamaximo23&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamaximo23&hide_progress=trueicons=true&theme=dracula)
+ 
 
 ### 📫 How to reach me ⤵️
   
