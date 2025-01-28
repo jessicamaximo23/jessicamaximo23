@@ -1,15 +1,26 @@
 ### Hi there, My name is Jessica Maximo 👋
 
-⚡I am from Brasília, but currently, I live in Montreal. I am a student in the Mobile Application Program at Cégep de la Gaspésie (Montreal Campus). Currently, I am committed to improving my skills as a developer and working on some personal projects
+⚡ I am from Brasília, currently living in Montreal. I will graduate in April 2025 as a Software Developer from the Mobile Application Program at Cégep de la Gaspésie (Montreal Campus).
 
-⚡I love studying and am always seeking challenges and opportunities to develop myself. Because of this, I stopped my career as a physiotherapist to venture into the field of technology. Certainly, my years of previous experience have helped me to have excellent communication and problem-solving skills. 
+⚡ I transitioned from a career as a physiotherapist to technology, leveraging my strong communication and problem-solving skills to excel as a developer.
 
-⚡Here I am, open to making new connections and discovering ways to make the digital world a better place, I understand that development mobile is not just about lines of code, it's about creating experiences that resonate with users and drive business goals.This unique combination of technical knowledge and interpersonal skills enables me to collaborate effectively with multidisciplinary teams, eliminate communication barriers and deliver solutions that exceed expectations.
+⚡ Passionate about learning and taking on new challenges, I am dedicated to creating digital experiences that resonate with users and achieve business goals. My combination of technical expertise and interpersonal skills allows me to collaborate effectively with teams and deliver exceptional results.
+
+
 
 ### Technologies ⤵️
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
 
- ![Jessica Maximo GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamaximo23&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamaximo23&hide_progress=trueicons=true&theme=dracula)
+### Stats 📊 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamaximo23&layout=compact&theme=dracula)
+ 
+ ![Jessica Maximo GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamaximo23&show_icons=true&theme=dracula)   
+
  
 
 ### 📫 How to reach me ⤵️
