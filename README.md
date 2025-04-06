@@ -1,6 +1,6 @@
 ### Hi there, My name is Jessica Maximo 👋
 
-⚡ I am from Brasília, currently living in Montreal. I will graduate in April 2025 as a Software Developer from the Mobile Application Program at Cégep de la Gaspésie (Montreal Campus).
+⚡ I am from Brazil, currently living in Montreal. I am graduated as a Software Developer from the Mobile Application Program at Cégep de la Gaspésie.
 
 ⚡ I transitioned from a career as a physiotherapist to technology, leveraging my strong communication and problem-solving skills to excel as a developer.
 
