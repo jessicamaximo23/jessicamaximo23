@@ -4,7 +4,7 @@
 
 ⚡ I transitioned from a career as a physiotherapist to technology, leveraging my problem-solving skills to excel as a developer.
 
-⚡ Passionate about learning and taking on new challenges, I am dedicated to creating digital experiences that resonate with users and achieve business goals. My combination of technical expertise and interpersonal skills allows me to collaborate effectively with teams and delive results.
+⚡ Passionate about learning and taking on new challenges, I am dedicated to creating digital experiences that resonate with users and achieve business goals. My combination of technical and interpersonal skills allows me to collaborate effectively with teams and delivery results.
 
 
 
