@@ -25,8 +25,8 @@
  ![Jessica Maximo GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamaximo23&show_icons=true&theme=dracula)   
 
  
-
 ### 📫 How to reach me ⤵️
-  
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-m%C3%A1ximo-b65467115/) 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssicam%C3%A1ximo/) 
+
 
