@@ -1,4 +1,4 @@
-### Hi there, My name is Jessica Maximo 👋
+### Hi there, My name is Jessica Maximo 
 
 ⚡ I am from Brazil, currently living in Montreal. I am graduated as a Software Developer from the Mobile Application Program at Cégep de la Gaspésie.
 
