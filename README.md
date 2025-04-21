@@ -1,10 +1,10 @@
 ### Hi there, My name is Jessica Maximo 
 
-⚡ I am from Brazil, currently living in Montreal. I am graduated as a Software Developer from the Mobile Application Program at Cégep de la Gaspésie.
+I hold a degree in Mobile Application Programmin (AEC) from Cégep de la Gaspésie et des Îles. I have developed a strong foundation in mobile and web development through hands-on projects using Java, Kotlin, Swift and React. Over the past 2 years, I have built innovative applications, including: a multi-language food delivery app (similiar to Ubear Eats) built with Flutter,Swift and Java. DogPal, a pet managment iOS app with Firebase integration for real-time updates. Easy filter, a photo-editing Android app with custom filters.
 
-⚡ I transitioned from a career as a physiotherapist to technology, leveraging my problem-solving skills to excel as a developer.
+Additionally, I have worked on cross-platform development, RESTful APIs and cloud integration (Firebase). I possess a working knowledge of Node.js and TypeScript, which complements my experience in JavaScript and React for building dynamic applications. These skills, combined with my ability to debug runtime errors, optimize performance, and design scalable architectures, have enabled me to maintain clean and efficient codebases.
 
-⚡ Passionate about learning and taking on new challenges, I am dedicated to creating digital experiences that resonate with users and achieve business goals. My combination of technical and interpersonal skills allows me to collaborate effectively with teams and delivery results.
+These skills, combined with my ability to debug runtime errors, optimize performance, and design scalable architectures, have enabled me to maintain clean and efficient codebases.
 
 ### Technologies ⤵️
 
