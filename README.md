@@ -1,8 +1,16 @@
 ### Hi there, My name is Jessica Maximo 
 
- I hold a degree in Mobile Application Programmin (AEC) from Cégep de la Gaspésie et des Îles. I have developed a strong foundation in mobile and web development through hands-on projects using Java, Kotlin, Swift and React. Over the past 2 years, I have built innovative applications, including: a multi-language food delivery app (similiar to Ubear Eats) built with Flutter,Swift and Java. DogPal, a pet managment iOS app with Firebase integration for real-time updates. Easy filter, a photo-editing Android app with custom filters.
+I hold a diploma in Mobile Application Programming (AEC) from Cégep de la Gaspésie et des Îles. I acquired a solid foundation in mobile and web development through hands-on projects using Java, JavaScript, and React.
 
- Additionally, I have worked on cross-platform development, RESTful APIs and cloud integration (Firebase). I possess a working knowledge of Node.js and TypeScript, which complements my experience in JavaScript and React for building dynamic applications. These skills, combined with my ability to debug runtime errors, optimize performance, and design scalable architectures, have enabled me to maintain clean and efficient codebases.
+Over the past two years, I have developed innovative applications, including:
+
+   LaSalleSushi, an e-commerce website for a sushi restaurant, designed in Java and JavaScript, with user authentication and responsive design.
+
+   Photography Portfolio, a professional portfolio website for a photographer, designed in HTML and CSS, with a responsive layout and a dynamic gallery.
+
+Furthermore, I have expertise in RESTful APIs, Firebase integration, and cross-platform development. My proficiency in JavaScript, React, and Node.js allows me to create dynamic and scalable web applications.
+
+These skills, combined with my ability to debug runtime errors, optimize performance, and design scalable architectures, have allowed me to maintain clean and efficient code bases.
 
 ### Technologies ⤵️
 
