@@ -1,16 +1,16 @@
 ### Hi there, My name is Jessica Maximo 
 
-I hold a diploma in Mobile Application Programming (AEC) from Cégep de la Gaspésie et des Îles. I acquired a solid foundation in mobile and web development through hands-on projects using Java, JavaScript, and React.
+I hold a diploma in Mobile Application Programming (AEC) from Cégep de la Gaspésie et des Îles, where I built a strong foundation in mobile and web development through hands-on projects using Java, JavaScript, TypeScript, and React.
 
-Over the past two years, I have developed innovative applications, including:
+Over the past two years, I have developed and shipped innovative, production-grade applications, including:
 
-   LaSalleSushi, an e-commerce website for a sushi restaurant, designed in Java and JavaScript, with user authentication and responsive design.
+LaSalleSushi: An e-commerce website for a sushi restaurant, developed using Java and JavaScript. It includes user authentication, responsive design, and optimized backend workflows.
 
-   Photography Portfolio, a professional portfolio website for a photographer, designed in HTML and CSS, with a responsive layout and a dynamic gallery.
+Photography Portfolio: A professional website for a photographer, created with HTML and CSS. It features a dynamic gallery and a responsive layout.
 
-Furthermore, I have expertise in RESTful APIs, Firebase integration, and cross-platform development. My proficiency in JavaScript, React, and Node.js allows me to create dynamic and scalable web applications.
+I have experience working with Firebase (Authentication, Firestore, Storage, and Cloud Functions), as well as NoSQL databases and Google Cloud Platform (GCP) services. I’m proficient with React, using the App Router and React Server Components, and TypeScript, allowing me to create performant, scalable, and modern web applications.
 
-These skills, combined with my ability to debug runtime errors, optimize performance, and design scalable architectures, have allowed me to maintain clean and efficient code bases.
+I'm committed to writing clean, maintainable, and well-architected code, and I thrive in collaborative environments where communication and problem-solving are key.
 
 ### Technologies ⤵️
 
